@@ -1,0 +1,275 @@
+body {
+    background-color: rgba(0,0,0,1);
+    margin : 0;
+    padding : 0;
+}
+
+.Section-css1{
+    padding : 4%;
+    display : flex;
+    flex-direction: column;
+}
+
+.Section-css2{
+    padding : 5%;
+    display : flex;
+    flex-direction: column;
+}
+
+.Logo {
+    margin : 0;
+}
+
+.Accueil {
+    color : rgba(250,250,250,0.9);
+    font-family: 'Ubuntu', sans-serif, 'Bold 700';
+    font-weight : 'bold';
+    font-size : 100px; 
+    
+}
+
+.Message {
+    color : rgba(250, 250, 250, 0.9);
+    font-family: 'Ubuntu', sans-serif, 'Bold 700';
+    font-weight : 'bold';
+    font-size : 50px;
+}
+
+.Espaceun{
+    padding-top : 70px;
+}
+
+.Espacedeux{
+    padding-top : 60px;
+}
+
+.Espacetrois{
+    padding-top : 40px;
+}
+
+.Espacequatre{
+    padding-top : 30px;
+}
+
+.Espacecinq{
+    padding-top : 10px;
+}
+
+.BoutonGoogle{
+    text-align : center;
+    background-color : white;
+    font-size : 40px;
+    width : 100%;
+    border-radius : 65px;
+    font-weight : bold;
+    padding-left : 5%;
+    margin : auto;
+    padding : 15px;
+    font-family: 'Ubuntu', sans-serif, 'Bold 700';
+    display : flex;
+    align-items : center;
+    justify-content : center;
+}
+
+.BoutonApple{
+    text-align : center;
+    background-color : white;
+    font-size : 40px;
+    width : 100%;
+    border-radius: 65px;
+    font-weight : bold;
+    padding-left : 3%;
+    margin : auto;
+    padding : 15px;
+    font-family: 'Ubuntu', sans-serif, 'Bold 700';
+    display : flex;
+    align-items : center;
+    justify-content : center;
+}
+
+.BoutonInscription {
+    text-align : center;
+    background-color : rgba(20, 177, 250, 0.753);
+    font-size : 40px;
+    width : 100%;
+    border-radius: 65px;
+    font-weight : bold;
+    padding : 15px;
+    font-family: 'Ubuntu', sans-serif, 'Bold 700';
+    margin-top : 15px;
+    color : white;
+}
+
+.Separateur{
+    display : inline-flex;
+    color : white;
+    font-size : 30px;
+    font-weight: 'bold';
+    font-family: 'Ubuntu', sans-serif, 'Bold 700';
+}
+
+.Barreun {
+    color : white;
+    height : 1px;
+    width : 42%;
+    padding-left : 2%;
+    padding-right : 2%;
+}
+
+.Conditions {
+    padding-top : 15px;
+    color : grey;
+    font-size : 1.5em;
+    font-family: 'Ubuntu', sans-serif;
+    text-align : justify;
+}
+
+liena {color : rgba(20, 177, 250, 0.753)}
+lienb {color : rgba(20, 177, 250, 0.753)}
+lienc {color : rgba(20, 177, 250, 0.753)}
+
+.Connexion {
+    color :rgba(250, 250, 250, 0.9);
+    font-size : 40px;
+    font-weight : bold;
+    font-family: 'Ubuntu', sans-serif, 'Bold 700';
+    margin-top : 15px;
+}
+
+.Boutonconnexion {
+    font-family: 'Ubuntu', sans-serif, 'Bold 700';
+    margin : auto;
+    border-radius : 65px;
+    font-size : 40px;
+    margin-top : 30px;
+    background-color : rgba(0, 0, 0, 1);
+    color : rgba(20, 177, 250, 0.753);
+    padding : 15px;
+    font-weight:bold;
+    width : 100%;
+}
+
+.LogoApple {
+    width : 32px;
+    height : auto;
+    padding-right : 20px;
+}
+
+.LogoGoogle {
+    width : 48px;
+    height : auto;
+    padding-right : 10px;
+    font-family : Arial;
+}
+
+.Bandeaudubas {
+    font-size : 10px;
+    padding-top : 10px; 
+}
+
+.Liensdubas {
+    color : rgb(218, 218, 218); 
+    font-weight : bold; 
+    font-family : "Helvetica Neue",sans-serif;
+    text-align : center;
+    margin-top : 10px;
+    }
+
+.Ligne1 {
+    display : inline-flex;
+    font-size : 25px;
+}
+
+.Ligne1colonne1{
+    margin-right:20px;
+}
+
+.Ligne1colonne2{
+    margin-right:20px;
+    margin-left: 20px;
+}
+
+.Ligne1colonne3{
+    margin-left:20px;
+}
+
+.Ligne2 {
+    margin-top: 15px;
+    display : inline-flex;
+    font-size : 25px;
+}
+
+.Ligne2colonne1{
+    margin-right:20px;
+}
+
+.Ligne2colonne2{
+    margin-right:20px;
+    margin-left: 20px;
+}
+
+.Ligne2colonne3{
+    margin-left:20px;
+}
+
+.Ligne3 {
+    display : inline-flex;
+    font-size : 25px;
+    margin-top : 15px;
+}
+
+.Ligne3colonne1{
+    margin-right:20px;
+}
+
+.Ligne3colonne2{
+    margin-right:20px;
+    margin-left: 20px;
+}
+
+.Ligne3colonne3{
+    margin-left:20px;
+}
+
+.Ligne4 {
+    display : inline-flex;
+    font-size : 25px;
+    margin-top : 15px;
+}
+
+.Ligne4colonne1{
+    margin-right:20px;
+}
+
+.Ligne4colonne2{
+    margin-right:20px;
+    margin-left: 20px;
+}
+
+.Ligne4colonne3{
+    margin-left:20px;
+}
+
+.Ligne5 {
+    display : inline-flex;
+    font-size : 25px;
+    margin-top : 15px;
+    margin-bottom : 15px;
+}
+
+.Ligne5colonne1{
+    margin-right:20px;
+}
+
+.Ligne5colonne2{
+    margin-right:20px;
+    margin-left: 20px;
+}
+
+.Ligne5colonne3{
+    margin-left:20px;
+}
+
+.CorporateTwitter {
+    font-size: 25px;
+}
